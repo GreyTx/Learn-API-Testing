@@ -1,3 +1,7 @@
 here
+<<<<<<< HEAD
 I am writing some changes here from VM.
 change to demo fetch
+=======
+I am typing here from my local machine. NOT VM!
+>>>>>>> bd9135c9f96970fb923e3f7b0cab58c27f5bc0a7
