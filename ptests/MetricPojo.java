@@ -16,5 +16,4 @@ public class MetricPojo {
 	}
 	String name;
 	double value;
-	double value1;
 }
