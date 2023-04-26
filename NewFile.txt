@@ -2,3 +2,4 @@ New file
 one more file
 And one more line!
 I don't want this line
+Creating new line
