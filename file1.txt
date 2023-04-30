@@ -6,6 +6,4 @@ Let's modify this file again
 
 sadfdsafdsaf
 
-code here
-dsfdsfd
-new chanhes
+I removed 3 lines
