@@ -6,4 +6,4 @@ Let's modify this file again
 
 sadfdsafdsaf
 
-I removed 3 lines
+I changed this line from VM
