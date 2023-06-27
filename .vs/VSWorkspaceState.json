@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\greycourse5"
   ],
-  "SelectedNode": "\\file1.txt",
+  "SelectedNode": "\\src\\greycourse5\\test cherry pick",
   "PreviewInSolutionExplorer": false
 }
