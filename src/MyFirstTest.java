@@ -1,4 +1,4 @@
-public class MyFirstTest {
+public cla MyFirstTest {
 
     public static void main(String[] args) {
         System.out.println("Hello world!");
