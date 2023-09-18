@@ -4,3 +4,4 @@ git demo
 changes from VS!
 One more line!
 Second line!
+My line
