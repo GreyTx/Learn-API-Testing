@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-          public  void ReadingFromFile(String[] args) {
+          public  void ReadingFromFile2(String[] args) {
         System.out.println("Hello world!");
     }
 }
