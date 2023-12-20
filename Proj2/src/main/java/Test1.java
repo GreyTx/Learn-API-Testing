@@ -12,4 +12,8 @@ public class Test1 {
         System.out.println("Sub test Test case failed");
     }
 
+    public static void reusableWaitMethod() {
+        System.out.println("wait method");
+    }
+
 }
