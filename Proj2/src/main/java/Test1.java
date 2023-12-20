@@ -10,6 +10,11 @@ public class Test1 {
 
         public static void testCase574() {
         System.out.println("Sub test Test case failed");
+
+    }
+
+            public static void testCase5678() {
+        System.out.println("Sub test Test case failed");
     }
 
 }
