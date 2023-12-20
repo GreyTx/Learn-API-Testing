@@ -1,0 +1,295 @@
+[33mcommit 418136640d17a2e1a722a4527cc3b39056502843[m[33m ([m[1;36mHEAD -> [m[1;32mFeature3[m[33m)[m
+Merge: 881b727 b985a36
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Wed Dec 20 15:01:36 2023 -0600
+
+    Merge branch 'master' into Feature3
+    
+    # Conflicts:
+    #       Proj2/src/main/java/Main.java
+
+[33mcommit 881b727f45c748b104e918b8be5d293fe5901f85[m[33m ([m[1;31morigin/Feature3[m[33m)[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Wed Dec 20 14:56:05 2023 -0600
+
+    New test for Feature3
+
+[33mcommit b985a36e6ce9d9497646922ed8057141bc7295ff[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: GreyTx <82722264+GreyTx@users.noreply.github.com>
+Date:   Wed Dec 20 14:55:34 2023 -0600
+
+    Update Main.java
+    
+    Added new method
+
+[33mcommit ae62d392be0a632489084d5511d6c1c68fd0a15e[m
+Merge: cbbaf7b 109b915
+Author: GreyTx <82722264+GreyTx@users.noreply.github.com>
+Date:   Wed Dec 20 14:45:00 2023 -0600
+
+    Merge pull request #2 from GreyTx/FixOfFeature2
+    
+    fix
+
+[33mcommit 109b915c616366612ba5771ddee8ba426abac58d[m[33m ([m[1;31morigin/FixOfFeature2[m[33m)[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Wed Dec 20 14:44:08 2023 -0600
+
+    fix
+
+[33mcommit cbbaf7b7872d77375407b807f52f6798a000be96[m
+Merge: 26315f0 c0e63bf
+Author: GreyTx <82722264+GreyTx@users.noreply.github.com>
+Date:   Wed Dec 20 14:40:44 2023 -0600
+
+    Merge pull request #1 from GreyTx/FeatureTest2
+    
+    added test for feature 2
+
+[33mcommit c0e63bf78cd2b12d013ce1d9b293f3f3eab03d08[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Wed Dec 20 14:36:36 2023 -0600
+
+    added test for feature 2
+
+[33mcommit 26315f09a5e1d9a03a93d708634e35b0bdfe7c70[m
+Merge: f0cffc3 370aeae
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Wed Dec 20 14:34:11 2023 -0600
+
+    Merge branch 'master' of https://github.com/GreyTx/GreyPrep
+
+[33mcommit f0cffc37e05d96ba614b8e4f27a19e3c566f637c[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Wed Dec 20 14:33:49 2023 -0600
+
+    Wait Method added
+
+[33mcommit 370aeae9c32d366f33af8edc0efa529db03d1a14[m
+Author: GreyTx <82722264+GreyTx@users.noreply.github.com>
+Date:   Wed Dec 20 14:32:40 2023 -0600
+
+    Update Test1.java
+    
+    3rd test
+
+[33mcommit c24c8d00caeb19d276692f30087298128cfd1483[m
+Merge: 5f55be8 c756431
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Wed Dec 20 14:31:00 2023 -0600
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       Proj2/src/main/java/Test1.java
+
+[33mcommit 5f55be8ff070119efbf2e1530deb8ab377e45c49[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Wed Dec 20 14:28:12 2023 -0600
+
+    2nd test case added
+
+[33mcommit c756431b94ab4b5fa8da9a4c19006f508001ffbb[m
+Author: GreyTx <82722264+GreyTx@users.noreply.github.com>
+Date:   Wed Dec 20 14:27:55 2023 -0600
+
+    Update Test1.java
+    
+    2nd test cases added
+
+[33mcommit b58852937c00a7515f486907f24d9000e0584eac[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Wed Dec 20 14:25:57 2023 -0600
+
+    new test case added
+
+[33mcommit 88e201a4e1bfc8b8f97c2a68cf55056a381d8d84[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Wed Dec 20 14:19:42 2023 -0600
+
+    sd
+
+[33mcommit 09f07743f5681c6a951786a5fb449e4d546f6257[m
+Merge: d025436 619127a
+Author: Grey Grey <testergrey2@gmail.com>
+Date:   Tue Sep 19 01:32:57 2023 +0000
+
+    Merged in Feature23 (pull request #9)
+    
+    commit from branch feature23
+
+[33mcommit 619127a5015fb98ff8484471c445ffe982fbad0f[m[33m ([m[1;32mFeature23[m[33m)[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Mon Sep 18 20:20:53 2023 -0500
+
+    commit from branch feature23
+
+[33mcommit d0254361fe7cfacbfad8391b3fbe43c55bb39027[m
+Merge: 82818dc 66285d8
+Author: Sameera <grey@yoll.io>
+Date:   Mon Sep 18 18:11:09 2023 -0700
+
+    Merge branch 'master' of https://bitbucket.org/greytx/greycourse
+
+[33mcommit 82818dc8fec899d6d395bb416565693cf3bcbffb[m
+Author: Sameera <grey@yoll.io>
+Date:   Mon Sep 18 18:10:40 2023 -0700
+
+    from vm
+
+[33mcommit 66285d895eac33ce37a6017be9903255ccf0ff47[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Mon Sep 18 20:04:06 2023 -0500
+
+    commit using git bash
+
+[33mcommit 7070fd6512d07651bddee1377bafedcf0beded16[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Mon Sep 18 19:53:59 2023 -0500
+
+    first test added
+
+[33mcommit 507e0573026b5c4c4eeb91d37887dca4c3fdab4d[m
+Merge: bc3d65f cb52e0f
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Mon Sep 18 17:07:58 2023 -0500
+
+    Merge branch 'master' of https://bitbucket.org/greytx/greycourse
+    
+    # Conflicts:
+    #       git fetch demo.txt
+
+[33mcommit bc3d65fd9fce8e3d9130e77563d819c2600232c4[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Mon Sep 18 17:07:15 2023 -0500
+
+    variable added
+
+[33mcommit cb52e0f9bea7858348d366bbefac2e320ae686a1[m
+Author: Sameera <grey@yoll.io>
+Date:   Mon Sep 18 15:00:58 2023 -0700
+
+    third commit
+
+[33mcommit 24f3eabeb938cefb1617679a7119f65a95d27313[m
+Author: Sameera <grey@yoll.io>
+Date:   Mon Sep 18 14:57:44 2023 -0700
+
+    second from VM
+
+[33mcommit bec1659479eafa4e08278bd6a027a20a273d4222[m
+Author: Sameera <grey@yoll.io>
+Date:   Mon Sep 18 14:55:33 2023 -0700
+
+    change from VM
+
+[33mcommit 24a1b0a988b84ce67462d7fa155383ac1858f589[m
+Merge: 3157263 816aac8
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Mon Sep 18 16:50:28 2023 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 315726382ba03fd7f7ae995eb03aadb151e6d22f[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Mon Sep 18 16:47:39 2023 -0500
+
+    variable added
+
+[33mcommit 816aac8ee247d65460001402418a5837197b57e4[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Sun Jul 2 22:38:43 2023 -0500
+
+    checking tag
+
+[33mcommit e6bf799206f9f71616fece28aab115f92ace4a8f[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Sun Jul 2 22:35:18 2023 -0500
+
+    tag check
+
+[33mcommit efafdb62702604e0e54d2afbd62217d9fac89366[m[33m ([m[1;33mtag: bugFix[m[33m)[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Sun Jul 2 22:22:04 2023 -0500
+
+    comoile error code
+
+[33mcommit 2c0f770eefa6bcbf30f6720df277348d97f28986[m
+Merge: c3ff0da 448446f
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Sun Jul 2 21:47:57 2023 -0500
+
+    Merge branch 'master' of https://bitbucket.org/greytx/greycourse
+
+[33mcommit c3ff0da43d7097b55903125d3a857f71b5b2dfae[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Sun Jul 2 21:47:30 2023 -0500
+
+    pipeline test
+
+[33mcommit 448446fb723ceae6e358fd27c53a7ee42ea4112c[m
+Author: Grey Grey <testergrey2@gmail.com>
+Date:   Mon Jul 3 02:43:47 2023 +0000
+
+    Initial Bitbucket Pipelines configuration
+
+[33mcommit 0ecdef1c7c124d138cf6038f8b79672d0abd664d[m
+Merge: 9e129c8 7b55c58
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Mon Jun 26 19:07:01 2023 -0500
+
+    merge VS
+
+[33mcommit 7b55c58a8b0e30df4a304dd5aea4f11d4ab28775[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Mon Jun 26 19:00:35 2023 -0500
+
+    commit from VS
+
+[33mcommit f1b3d25f01ee38cc84602f9def196edc7307602b[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Sat Jun 3 13:29:13 2023 -0500
+
+    Main method added
+
+[33mcommit 9e129c8ec902b4319c7b9d0e403c5107b5511b28[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Fri Jun 2 18:50:34 2023 -0500
+
+    Revert "Main method added"
+    
+    This reverts commit 14cc2cce3df98921306f9ab08773d49b82368a7d.
+
+[33mcommit 14cc2cce3df98921306f9ab08773d49b82368a7d[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Fri Jun 2 18:48:56 2023 -0500
+
+    Main method added
+
+[33mcommit 825e8122e4d8c28cc30ffd4b5c108c648179febb[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Fri Jun 2 00:08:21 2023 -0500
+
+    commit from master
+
+[33mcommit 4d0116c1ce2f0efc90fc732ee5100ef7279a730d[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Thu Jun 1 23:42:00 2023 -0500
+
+    cherry pick commit
+
+[33mcommit f25c6d90a57d08c353cff25252a520931920fbc3[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Thu Jun 1 22:59:46 2023 -0500
+
+    message
+
+[33mcommit c732041f0bbd67d46f0bf0edadcd876570908130[m
+Author: Grey123e <g.donchyk@gmail.com>
+Date:   Thu Jun 1 21:46:17 2023 -0500
+
+    comnination of 2 commits
+
+[33mcommit 2e6d96b09e4fbe5225bb13e60cb8208f254b54ea[m
+Merge: 93988be c5e533d
+Au

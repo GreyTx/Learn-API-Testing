@@ -11,6 +11,12 @@ public class Main {
     }
 
           public  void ReadingFromFile2(String[] args) {
-        System.out.println("Hello world!");
+              System.out.println("Hello world!");
+          }
+
+              public  void ReadingFromFile3() {
+                  System.out.println("Hello world!");
+
+
     }
 }
