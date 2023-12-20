@@ -6,4 +6,7 @@ public class Main {
         System.out.println("Hello world!");
     }
 
+      public  void ReadingFromFile(String[] args) {
+        System.out.println("Hello world!");
+    }
 }
