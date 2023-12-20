@@ -1,6 +1,7 @@
 public class NewTestFeature2 {
 
     public static void testForFeature2() {
-        System.out.println("Feature2 is tested");
+        System.out.println("It was wrong");
+        System.out.println("new logic");
     }
 }
