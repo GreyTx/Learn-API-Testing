@@ -9,4 +9,8 @@ public class Main {
       public  void ReadingFromFile(String[] args) {
         System.out.println("Hello world!");
     }
+
+          public  void ReadingFromFile(String[] args) {
+        System.out.println("Hello world!");
+    }
 }
