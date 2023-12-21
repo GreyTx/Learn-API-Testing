@@ -9,6 +9,9 @@ public class Main {
        int b = 10;
 
 
+        System.out.println("Hello world!");
+
+
 
 
 }
