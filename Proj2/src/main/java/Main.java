@@ -4,7 +4,11 @@ import java.util.Map;
 public class Main {
 
 
-    private void method2(String str) {
+    private void ReadFromExel(String str) {
+        //some logic here
+    }
+
+        private void ExplicitWait(String str) {
         //some logic here
     }
 
