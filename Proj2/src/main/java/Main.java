@@ -6,6 +6,7 @@ public class Main {
 
 
         String name = "Grey";
+       int b = 10;
 
 
 
